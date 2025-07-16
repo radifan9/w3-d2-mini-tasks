@@ -6,7 +6,8 @@
 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
 */
 
-/* No 3 : Import Default Styling */
+/* ----------------------- No 3 ----------------------- */
+/* Import Default Styling */
 @import url(./globals.css);
 
 body {
@@ -17,7 +18,7 @@ body {
 }
 
 /* ----------------------- No 5 ----------------------- */
-.no-5 {
+.no-5 p {
   color: var(--primary);
   font-size: 24px;
 }
@@ -31,7 +32,7 @@ body {
   color: #d6336c;
 }
 
-div > p {
+summary {
   color: #9c36b5;
 }
 
