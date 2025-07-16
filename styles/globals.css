@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* No 4 : Deklarasikan Variabel Custom */
+:root {
+  --primary: #ae3ec9;
+  --secondary: #da77f2;
+}
